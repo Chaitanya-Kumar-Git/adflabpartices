@@ -1,0 +1,9 @@
+{
+	"name": "ADFLabPartices",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2499527b-92c7-4967-bbd6-5c2d944f111e",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
